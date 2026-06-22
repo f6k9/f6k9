@@ -47,12 +47,12 @@ I am a **Computer Science major at King Abdulaziz University** with specialized 
 * **IBM:** Exploring Data Analysis for Machine Learning & Supervised Machine Learning
 
 ---
-
+<!--
 ## 📊 My GitHub Stats
 
 ![Faris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=f6k9&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f6k9&layout=compact&theme=radical)
-<!--
+
 **f6k9/f6k9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
